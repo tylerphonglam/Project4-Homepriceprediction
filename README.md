@@ -1,9 +1,9 @@
-# Project4-Homepriceprediction
-# Readme: Ontario Housing Price Prediction Model
+# Project4-Home Location Prediction
+# Readme: Ontario Housing Search Prediction Model
 
 ## Overview
 
-This readme details the development of a the machine learning model built to predict housing prices in Ontario, Canada. The model focuses on evaluating the affordability of houses based on median family income and other housing features.
+This readme details the development of a the machine learning model built to predict housing location in Ontario, Canada based on affordability. The model focuses on evaluating the location of houses based on buyers' input.
 
 ## Data Loading and Preprocessing
 
